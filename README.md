@@ -5,7 +5,7 @@ Responsive Design: Ensures compatibility across various devices and screen sizes
 Stylish UI: 3D-looking cards and a sleek search bar.
 
 Screenshots:
-![Uploading Screenshot 2024-09-07 163549.png…]()
+https://github.com/SatKaplan8/weather-app/blob/master/Screenshot%202024-09-07%20163549.png
 
 ![Uploading Screenshot 2024-09-07 163624.png…]()
 
