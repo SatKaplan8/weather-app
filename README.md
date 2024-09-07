@@ -8,6 +8,8 @@ Screenshots:
 
 
 ![Weather App Screenshot](Screenshot%202024-09-07%20163549.png)
+![Weather App Screenshot](Screenshot%202024-09-07%20163609.png)
+
 
 
 
