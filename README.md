@@ -7,7 +7,8 @@ Stylish UI: 3D-looking cards and a sleek search bar.
 Screenshots:
 
 
-![Weather App Screenshot](https://github.com/SatKaplan8/weather-app/Screenshot 2024-09-07 163549.png)
+![Uploading Screenshot 2024-09-07 163549.png…]()
+
 
 
 Main Page
