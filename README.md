@@ -7,7 +7,7 @@ Stylish UI: 3D-looking cards and a sleek search bar.
 Screenshots:
 
 
-![Uploading Screenshot 2024-09-07 163549.png…]()
+![Weather App Screenshot](Screenshot%202024-09-07%20163549.png)
 
 
 
