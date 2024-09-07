@@ -5,6 +5,8 @@ Responsive Design: Ensures compatibility across various devices and screen sizes
 Stylish UI: 3D-looking cards and a sleek search bar.
 
 Screenshots:
+
+
 ![Weather App Screenshot](Screenshot 2024-09-07 163549.png)
 
 
