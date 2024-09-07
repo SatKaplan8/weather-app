@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Card 1: Current Weather -->
+        <div class="card card-1">
+            <img src="image1.jpg" alt="Weather Image 1" class="card-image">
+            <div class="card-content">
+                <input type="text" id="location" class="search-bar" placeholder="Enter location">
+                <button id="search" class="search-button">Search</button>
+                <div class="weather-info">
+                    <div id="day1">Day</div>
+                    <div id="date1">Date</div>
+                    <img id="weather-logo" class="weather-logo" src="" alt="Weather Logo">
+                    <div id="temperature1">Temperature</div>
+                    <!-- <div id="condition1">Condition</div> -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Card 2: Additional Details -->
+        <div class="card card-2">
+            <img src="image2.jpg" alt="Weather Image 2" class="card-image">
+            <div class="card-content">
+                <div class="weather-info">
+                    <div class="weather-details">
+                        <div class="weather-detail">
+                            <span class="weather-label">Precipitation:</span>
+                            <span id="precipitation" class="weather-value">0%</span>
+                        </div>
+                        <div class="weather-detail">
+                            <span class="weather-label">Humidity:</span>
+                            <span id="humidity" class="weather-value">0%</span>
+                        </div>
+                        <div class="weather-detail">
+                            <span class="weather-label">Wind:</span>
+                            <span id="wind" class="weather-value">0 km/h</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
