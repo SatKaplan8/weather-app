@@ -5,9 +5,13 @@ Responsive Design: Ensures compatibility across various devices and screen sizes
 Stylish UI: 3D-looking cards and a sleek search bar.
 
 Screenshots:
+![Uploading Screenshot 2024-09-07 163549.png…]()
 
+![Uploading Screenshot 2024-09-07 163624.png…]()
 
-![Uploading Screenshot 2024-09-07 163651.png…]()
+![Uploading Screenshot 2024-09-07 163624.png…]()
+
+![Uploading Screenshot 2024-09-07 163609.png…]()
 
 
 Main Page
